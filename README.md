@@ -1,2 +1,2 @@
 # day_off_demand
-Compare the first work from home day in 2020 to a typical weekend day.
+Compare April 2019 energy usage to April 2020 energy usage.
